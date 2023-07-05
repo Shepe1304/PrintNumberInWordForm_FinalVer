@@ -1,7 +1,7 @@
 # PrintNumberInWordForm_FinalVer
 A Visual Studio C# project that displays the text version of your number, and can read it out loud for you in both English and Vietnamese.
 
-**Finish date** Oct 29, 2022
+**Finished** in 2022
 
 **HOW TO USE**
   1. Select your language on the top right corner.
